@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/openist/windows-rainmeter-dbar-clone/blob/master/public/images/shot.png">
+<img align="left" src="https://raw.githubusercontent.com/math0ne/windows-rainmeter-lemonbar-clone/master/shot.png">
 
 # Spelunky-likes
 
